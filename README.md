@@ -99,7 +99,7 @@ Sunday            ████████░░░░░░░░░░░░�
 
 <a href = "https://www.linkedin.com/in/debesh-nayak-247252369"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://discord.gg/gwUyHDbV"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
-<a href = "https://www.instagram.com/__a.t.h.e.x__09?igsh=MXI0eGZ2cWppdGx3NQ=="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/_.athex._09?igsh=MXNlM2hmZTB6YTZiMg=="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/share/19qhVBFdmY/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 
 </p>
