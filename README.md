@@ -123,9 +123,7 @@ Sunday            ████████░░░░░░░░░░░░�
  
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=TridibD004">
+    <img src="https://komarev.com/ghpvc/?username=Athexdev">
 </a>
-<a href="https://github.com/Athexdev?tab=followers"><img src="https://img.shields.io/github/followers/TridibD004?label=Followers&style=social" alt="GitHub Badge"></a>
-<p align="center">
   <img width="250" height="200" src="https://media.giphy.com/media/lb5njh6zDXFauXpBtC/giphy.gif">
 </p>
