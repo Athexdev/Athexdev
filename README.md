@@ -1,35 +1,131 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<p align="center">
+  <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="400px">
+</p>
+
+<h1 align="center"> <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="50px" height="50px" style="max-width:100%;">  I'm <a href="#"> Debesh </a> <img src="https://professionallogodesigner.in/wp-content/uploads/2020/01/1-1.gif" width="100px" height="70px"></h1>
+<h3 align="center">I'm A Student And Learner From India</h3>
+<h3 align="center">Exploring The World Of Coding and Its Limitless Possibilities</h3>
+
+<br>
+
+<img align='right' src="https://i.pinimg.com/originals/f2/74/6a/f2746ae177a5f4bcb59cf08c8d164b13.gif" width="300">
+
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently a Student of  **[GITA Autonomous College](https://gita.edu.in/)**
+
+- 🌱 I’m currently learning : **AI**,**ML** & **Data Structures and Algorithms.**
+
+- 👯 I’m looking to collaborate on : **OpenSource Projects**
+
+- 👨‍💻 Check My Works : **[My Portfolio](https://athex-uchiha.tiiny.site/)**
+
+- 📫 How to reach me : **nayakdebesh925@gmail.com**
+
+- ⚡ Fun fact : **I Explore Internet , Listen Music , Watch Anime whenever I'm free.**
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://www.cprogramming.com/"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
+    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a> 
+    <a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a> 
+    <a href="https://web.dev/learn/css/"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
+    <a href="https://www.javascript.com/"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> </a> 
+    <a style="padding-right:8px;" href="https://jupyter.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/> </a>
+    <a style="padding-right:8px;" href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> <img src="https://img.icons8.com/nolan/64/flask.png"/> </a>
+    <a href="https://www.cloudskillsboost.google/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> </a> 
+</p>
+
+<!-- [![React Badge](https://img.shields.io/badge/-React-0A05BA?style=for-the-badge&labelColor=black&logo=react&logoColor=0A05BA)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-AB0718?style=for-the-badge&labelColor=black&logo=javascript&logoColor=AB0718)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<br/>
+
+## 🔥 My Motto
 
 
-# 💫 About Me:
-DEVELOPING : ATHEX AI<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=822382&background=000000&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(Debesh_as_AthexDev);....+s.explore();....+s.learn();....+s.contribute()"/>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/debx.progs) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Athexdev) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-# 📊 GitHub Stats:
+
+## 📊 My Github Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=Athexdev&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Athexdev&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Athexdev&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Athexdev&theme=synthwave&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Athexdev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Athexdev&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
+<br/>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/athexdev) 
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Debesh Nayak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Athexdev&bg_color=0D1117&color=3F05BA&line=BA0554&point=FFFFFF&hide_border=true" /></a>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+<br/>
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning         ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
+🌆 Daytime         ███████░░░░░░░░░░░░░░░░░░   29.46% 
+🌃 Evening         ████████░░░░░░░░░░░░░░░░░   33.04% 
+🌙 Night           ██████░░░░░░░░░░░░░░░░░░░   24.11%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday            █████░░░░░░░░░░░░░░░░░░░░   20.54% 
+Tuesday           █░░░░░░░░░░░░░░░░░░░░░░░░   5.36% 
+Wednesday         ██░░░░░░░░░░░░░░░░░░░░░░░   8.04% 
+Thursday          ██░░░░░░░░░░░░░░░░░░░░░░░   8.93% 
+Friday            ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
+Saturday          ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
+Sunday            ████████░░░░░░░░░░░░░░░░░   34.82%
+
+```
+
+
+## Connect with me:
+
+### Social :- 
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/debesh-nayak-247252369"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://discord.gg/gwUyHDbV"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
+<a href = "https://www.instagram.com/__a.t.h.e.x__09?igsh=MXI0eGZ2cWppdGx3NQ=="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/share/19qhVBFdmY/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+
+</p>
+
+### Coding Platfroms :- 
+<p align="left">
+<a href = ""><img align="center"
+                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
+                        height="40" width="50" /></a>
+<a href = ""><img align="center"
+                        src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/hackerrank.svg"
+                        height="40" width="50" /></a>
+<a href = ""><img align="center"
+                        src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg"
+                        height="40" width="50" /></a>
+ <a href = ""><img align="center"
+                        src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/geeks-for-geeks.svg"
+                        height="40" width="50" /></a>
+ 
+</p>
+ 
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=TridibD004">
+</a>
+<a href="https://github.com/Athexdev?tab=followers"><img src="https://img.shields.io/github/followers/TridibD004?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="center">
+  <img width="250" height="200" src="https://media.giphy.com/media/lb5njh6zDXFauXpBtC/giphy.gif">
+</p>
