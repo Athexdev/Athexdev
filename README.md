@@ -123,7 +123,7 @@ Sunday            ████████░░░░░░░░░░░░�
  
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=tridib2004">
+    <img src="https://komarev.com/ghpvc/?username=TridibD004">
 </a>
   <img width="250" height="200" src="https://media.giphy.com/media/lb5njh6zDXFauXpBtC/giphy.gif">
 </p>
