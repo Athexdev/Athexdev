@@ -5,7 +5,7 @@
 <h1 align="center"> <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="50px" height="50px" style="max-width:100%;">  I'm <a href="#"> Debesh Nayak </a> <img src="https://professionallogodesigner.in/wp-content/uploads/2020/01/1-1.gif" width="100px" height="70px"></h1>
 <h3 align="center">I'm A Student , A Learner and An Open-Source Contributor From India</h3>
 <h3 align="center">Exploring The World Of Coding and Its Limitless Possibilities</h3>
-<h3 align="center">You Can Freely Fork My Repo Kindly Give Me A Star And Follow</h3>
+<h3 align="center">🔥 You Can Freely Fork My Repo Kindly Give Me A Star And Follow 🔥</h3>
 <br>
 
 <img align='right' src="https://i.pinimg.com/originals/f2/74/6a/f2746ae177a5f4bcb59cf08c8d164b13.gif" width="300">
