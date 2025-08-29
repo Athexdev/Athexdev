@@ -40,7 +40,7 @@
     <a href="https://www.cloudskillsboost.google/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> </a> 
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-0A05BA?style=for-the-badge&labelColor=black&logo=react&logoColor=0A05BA)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-AB0718?style=for-the-badge&labelColor=black&logo=javascript&logoColor=AB0718)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+[![React Badge](https://img.shields.io/badge/-React-0A05BA?style=for-the-badge&labelColor=black&logo=react&logoColor=0A05BA)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-AB0718?style=for-the-badge&labelColor=black&logo=javascript&logoColor=AB0718)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 <br/>
 
 ## 🔥 My Motto
@@ -64,7 +64,8 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Debesh Nayak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Athexdev&bg_color=0D1117&color=3F05BA&line=BA0554&point=FFFFFF&hide_border=true" /></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Athexdev&theme=github"/>
 
 <br/>
 <br/>
