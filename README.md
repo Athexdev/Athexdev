@@ -2,10 +2,10 @@
   <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="400px">
 </p>
 
-<h1 align="center"> <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="50px" height="50px" style="max-width:100%;">  I'm <a href="#"> Debesh </a> <img src="https://professionallogodesigner.in/wp-content/uploads/2020/01/1-1.gif" width="100px" height="70px"></h1>
-<h3 align="center">I'm A Student And Learner From India</h3>
+<h1 align="center"> <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="50px" height="50px" style="max-width:100%;">  I'm <a href="#"> Debesh Nayak </a> <img src="https://professionallogodesigner.in/wp-content/uploads/2020/01/1-1.gif" width="100px" height="70px"></h1>
+<h3 align="center">I'm A Student , A Learner and An Open-Source Contributor From India</h3>
 <h3 align="center">Exploring The World Of Coding and Its Limitless Possibilities</h3>
-
+<h3 align="center">You Can Freely Fork My Repo Kindly Give Me A Star And Follow</h3>
 <br>
 
 <img align='right' src="https://i.pinimg.com/originals/f2/74/6a/f2746ae177a5f4bcb59cf08c8d164b13.gif" width="300">
@@ -43,6 +43,8 @@
 [![React Badge](https://img.shields.io/badge/-React-0A05BA?style=for-the-badge&labelColor=black&logo=react&logoColor=0A05BA)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-AB0718?style=for-the-badge&labelColor=black&logo=javascript&logoColor=AB0718)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 <br/>
 
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 ## 🔥 My Motto
 
 
@@ -58,7 +60,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Athexdev&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 
 
 <br/>
@@ -122,7 +124,7 @@ Sunday            ████████░░░░░░░░░░░░�
  
 </p>
  
-## ❤ Views and Followers
+## ❤ Views 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=TridibD004">
 </a>
