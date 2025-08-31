@@ -37,6 +37,7 @@
     <a href="https://www.python.org" target="_blank"> </a> 
     <a style="padding-right:8px;" href="https://jupyter.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/> </a>
     <a style="padding-right:8px;" href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> <img src="https://img.icons8.com/nolan/64/flask.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/django.png"/> </a>
     <a href="https://www.cloudskillsboost.google/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> </a> 
 </p>
 
