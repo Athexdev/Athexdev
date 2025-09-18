@@ -116,7 +116,7 @@ Sunday            ████████░░░░░░░░░░░░�
 <a href = ""><img align="center"
                         src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
                         height="40" width="50" /></a>
-<a href = ""><img align="center"
+<a href = "https://www.hackerrank.com/profile/nayakdebesh925"><img align="center"
                         src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/hackerrank.svg"
                         height="40" width="50" /></a>
 <a href = ""><img align="center"
