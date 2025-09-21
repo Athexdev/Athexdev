@@ -47,7 +47,7 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ## 🔥 My Motto
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=822382&background=000000&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....+superusr_adm(Debesh@09);...+s+%3D+open_source.login(AthexDev);....+s.explore();....+s.learn();....+s.contribute()"/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=006400&background=000000&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....+superusr_adm(Debesh@09);...+s+%3D+open_source.login(AthexDev);....+s.explore();....+s.learn();....+s.contribute()"/>
 
 
 
