@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me  
 
-- 🔭 I’m currently a Student of  **[GITA Autonomous College](https://gita.edu.in/)**
+- 🔭 I’m currently a Student of  **[GITA Autonomous College](https://gita.edu.in/)**  
 
 - 🌱 I’m currently learning : **AI**,**ML** & **Data Structures and Algorithms.**
 
