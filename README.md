@@ -10,7 +10,7 @@
 
 <img align='right' src="https://i.pinimg.com/originals/f2/74/6a/f2746ae177a5f4bcb59cf08c8d164b13.gif" width="300">
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me  
 
 - 🔭 I’m currently a Student of  **[GITA Autonomous College](https://gita.edu.in/)**
 
