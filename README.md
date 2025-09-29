@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact : **I Explore Internet , Listen Music , Watch Anime whenever I'm free.**
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools:  
 
 <p align="left"> 
     <a href="https://www.cprogramming.com/"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
