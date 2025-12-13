@@ -57,7 +57,7 @@
 
 ## 📊 My Github Stats
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Athexdev&theme=dark_dimmed" alt="deeptesh-rout" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Athexdev&theme=dark_dimmed" alt="debesh nayak" /></a> </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=Athexdev&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Athexdev&theme=merko&hide_border=false)<br/>
