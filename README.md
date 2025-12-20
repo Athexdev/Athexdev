@@ -104,18 +104,10 @@ Sunday            ████████░░░░░░░░░░░░�
 
 ### Coding Platfroms :- 
 <p align="left">
-<a href = ""><img align="center"
-                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
-                        height="40" width="50" /></a>
-<a href = "https://www.hackerrank.com/profile/nayakdebesh925"><img align="center"
-                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg"
-                        height="40" width="50" /></a>
-<a href = "https://leetcode.com/u/Athexdev/"><img align="center"
-                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg"
-                        height="40" width="50" /></a>
- <a href = ""><img align="center"
-                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg"
-                        height="40" width="50" /></a>
+  
+<a href = "https://www.geeksforgeeks.org/profile/kartiknayakklp5"><img src="https://tse2.mm.bing.net/th/id/OIP.iKW4sx6-FT8WVxyExJWjCwHaHa?pid=Api&P=0&h=180" height="50" width="50"/></a> 
+<a href = "https://leetcode.com/u/Athexdev/"><img src="https://tse4.mm.bing.net/th/id/OIP.pcdr_uvbOn6gALKGL5AD0QHaHa?pid=Api&P=0&h=180" height="50" width="50"/></a>
+<a href = "https://www.hackerrank.com/profile/nayakdebesh925"><img src="https://tse1.mm.bing.net/th/id/OIP.y0wyuUm8ayfsGwp2OmLwEAHaHa?pid=Api&P=0&h=180" height="50" width="50"/></a>
  
 </p>
  
