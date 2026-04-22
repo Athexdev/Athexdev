@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on : **OpenSource Projects**
 
-- 👨‍💻 Check My Works : **[My Portfolio](https://debeshport.netlify.app/)**
+- 👨‍💻 Check My Works : **[My Portfolio](https://athexdev.in/)**
 
 - 📫 How to reach me : **nayakdebesh925@gmail.com**
 
@@ -63,6 +63,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Athexdev&theme=github"/>
+
+<br/>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Nexus Spring Of Code 2026:</h2>
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/f3d926a1-17eb-4563-9b24-00329f7f2b5e" />
+<img width="150" height="150" alt="image" src="https://media.licdn.com/dms/image/v2/D4D22AQFyBOxB5xzuvQ/feedshare-shrink_800/B4DZ11Xr_YJ0Ag-/0/1775790637327?e=2147483647&v=beta&t=tsCuDvTkrAZoxhHnD1bU_9kh6cF00rFXCti2y7hlGgk" />
 
 <br/>
 <br/>
