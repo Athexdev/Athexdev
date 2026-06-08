@@ -75,9 +75,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡GSSoC 2026:</h2>
 <p align="left">
-<img width="70" height="70" alt="image" src="https://media.licdn.com/dms/image/v2/D4D22AQEBTFALLKwpVg/feedshare-image-high-res/B4DZ3e_KOgJsAY-/0/1777562592561?e=1780531200&v=beta&t=APZkNo_2n7QCkGU3ZVqp_lhVnxumVtdiZ1uky3JceCw"/> 
-<img width="70" height="70" alt="image" src="https://media.licdn.com/dms/image/v2/D4D22AQHkrP6V9rCGYA/feedshare-shrink_1280/B4DZ3e_Ji_G4AM-/0/1777562589683?e=1780531200&v=beta&t=XwExLwhqp88X4_5AqhAdegT_FUB_tG8K45D-KB_Kn0E"/> 
- 
+<img width="70" height="70" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtSfyKCvhhT85zjV73PjkFBY1jXuCUzmDsUg&s"/> 
+<img width="70" height="70" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeoRfPOa0St8BYszG096ny9jrm-hl7lMWd2w&s"/> 
+</p>
+
 **I'm a Night 🦉** 
 
 ```text
